@@ -7,7 +7,7 @@ Simple application can used to save all your password in one place, all your pas
 First install [NodeJs](https://nodejs.org/en/) and [MySql](https://www.mysql.com). Once you have donloaded, clone this project
 
 ```bash
-git clone https://github.com/Mahmoud-Khaled-FS/pass-code.git
+git clone https://github.com/Mahmoud-Khaled-FS/pass-code
 ```
 
 #### Then run
